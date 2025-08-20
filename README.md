@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ossian
 ==============================================================================================================================
 
-Cross-platform application developer
+Profesional con experiencia en redes, hardware y desarrollo de aplicaciones multiplataforma. Especializado en tecnologías como Java y SpringBoot, con fortalezas en la resolución eficiente de problemas, aprendizaje autónomo y colaboración en equipo para impulsar el éxito de proyectos tecnológicos de alto impacto
 ------------------------------------
 
-With a recent specialization in multiplatform application development from IES Juan José Calvo Miguel, I am currently working as an IT Technician at MEDIABIT CONSULTING SL. My training in microcomputer systems and networks has allowed me to significantly contribute to the team and the company’s projects. At MEDIABIT, with the help of my colleagues, we have successfully managed large-scale events. I am committed to technical excellence and continuous innovation in the field of IT.
+
 
 * 🌍  I'm based in Asturias, España
 * ✉️  You can contact me at [ossiansm550@gmail.com](mailto:ossiansm550@gmail.com)
-* 🧠  I'm learning Unity
+* 🧠  I'm learning Angular
+  
 
 ### Skills
 
