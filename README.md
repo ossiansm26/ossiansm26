@@ -6,9 +6,9 @@ Profesional con experiencia en redes, hardware y desarrollo de aplicaciones mult
 
 
 
-* 🌍  I'm based in Asturias, España
-* ✉️  You can contact me at [ossiansm550@gmail.com](mailto:ossiansm550@gmail.com)
-* 🧠  I'm learning Angular
+* 🌍  Vivo en Asturias, España
+* ✉️  contáctame en [ossiansm550@gmail.com](mailto:ossiansm550@gmail.com)
+* 🧠  Estoy aprendiendo Angular
   
 
 ### Skills
