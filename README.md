@@ -1,4 +1,4 @@
-Holaaaa! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me llamo Ossian
+Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me llamo Ossian
 ==============================================================================================================================
 
 Profesional con experiencia en redes, hardware y desarrollo de aplicaciones multiplataforma. Especializado en tecnologías como Java y SpringBoot, con fortalezas en la resolución eficiente de problemas, aprendizaje autónomo y colaboración en equipo para impulsar el éxito de proyectos tecnológicos de alto impacto
