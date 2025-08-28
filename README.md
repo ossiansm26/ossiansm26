@@ -1,13 +1,13 @@
 Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me llamo Ossian
 ==============================================================================================================================
 
-Profesional con experiencia en redes, hardware y desarrollo de aplicaciones multiplataforma. Especializado en tecnologías como Java y SpringBoot, con fortalezas en la resolución eficiente de problemas, aprendizaje autónomo y colaboración en equipo para impulsar el éxito de proyectos tecnológicos de alto impacto
+Desarrollador con experiencia en redes, hardware y aplicaciones multiplataforma. Especializado en Spring Boot, Angular y Vue 2, con capacidad para resolver problemas de forma eficiente y aprender rápidamente nuevas tecnologías.
 ------------------------------------
 
 
 
 * 🌍  Vivo en Asturias, España
-* ✉️  contáctame en [ossiansm550@gmail.com](mailto:ossiansm550@gmail.com)
+* ✉️  Contáctame en [ossiansm550@gmail.com](mailto:ossiansm550@gmail.com)
 * 🧠  Estoy aprendiendo Angular
   
 
